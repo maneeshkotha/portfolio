@@ -5,7 +5,7 @@
   
 
 .qualification__container{
-    max-width: 768px;
+    max-width: 100%;
     margin-bottom: 10px;
 }
 
@@ -15,16 +15,14 @@
     font-weight: bold;
     margin-top: 70px;
     margin-bottom: 30px;
-    padding-right: 200px;
-    margin-left: 480px;
+    text-align: center;
 }
 
 .qualification__tabs{
     display: flex;
     justify-content: center;
     margin-bottom: var(--mb-2);
-    margin-left: 700px;
-    gap: 30px;
+   
 }
 
 .qualification__button {

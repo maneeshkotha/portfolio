@@ -117,7 +117,7 @@ const Qualification = () => {
                 IVY COMPTECH
               </span>
               <div className="qualification__calender">
-                <i className="uil uil-calender-alt"></i> JUNE 2021 - DEC2022
+                <i className="uil uil-calender-alt"></i> October 2021 - DEC2022
               </div>
             </div>
           </div>
@@ -129,7 +129,7 @@ const Qualification = () => {
                 IVY COMPTECH 
               </span>
               <div className="qualification__calender">
-                <i className="uil uil-calender-alt"></i> JUNE 2021 - MAY 2021
+                <i className="uil uil-calender-alt"></i> Jan 2021 - October 2021
               </div>
             </div>
             <div>
