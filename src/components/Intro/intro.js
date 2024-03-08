@@ -15,7 +15,7 @@ const Intro = () => {
     <div className='introContent'> 
     <span className='hello'>Hello</span>
     <span className='introText'>I'm <span className='introName'>Maneesh</span><br/>Masters Student At IIT</span>
- <p className='introPara'> I worked as a software engineer at IVY COMPTECH for a year and a half, <br/> during which I created a poker game using C# and WPF. <br/> I fully committed to learning a wide range of technologies throughout my two-month internship,<br/> including  HTML, CSS, Git, TypeScript, JavaScript, Angular, and React.
+ <p className='introPara'> I worked as a software engineer at IVY COMPTECH for a year and a half, <br/> during which I created a poker game using C# and WPF. <br/> I learnt a wide range of technologies throughout my Ten-month internship,<br/> including  HTML, CSS, Git, TypeScript, JavaScript, Angular, and React.
  </p>
  <Link ><button className='btn' onClick={resumeButton}>Resume</button></Link>
  </div>
